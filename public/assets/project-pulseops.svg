@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#151126"/>
+  <g stroke="#907aff" stroke-width="2" fill="none" opacity=".7"><path d="M180 260h120M450 260h120M710 260h40"/><path d="m290 252 14 8-14 8M560 252l14 8-14 8M742 252l14 8-14 8"/></g>
+  <g font-family="monospace" font-size="17" fill="#f2eeff">
+    <rect x="60" y="210" width="120" height="100" rx="8" fill="#2b2050" stroke="#907aff"/><text x="82" y="250">SIGNALS</text><text x="82" y="277" fill="#aaa0d4" font-size="12">logs + metrics</text>
+    <rect x="300" y="190" width="150" height="140" rx="8" fill="#302556" stroke="#b19dff"/><text x="328" y="245">PULSE CORE</text><text x="328" y="272" fill="#aaa0d4" font-size="12">rules + AI</text>
+    <rect x="570" y="210" width="140" height="100" rx="8" fill="#282044" stroke="#907aff"/><text x="599" y="250">ACTIONS</text><text x="595" y="277" fill="#aaa0d4" font-size="12">alert + runbook</text>
+    <rect x="770" y="210" width="90" height="100" rx="8" fill="#3a2d5d" stroke="#b19dff"/><text x="785" y="250">TEAM</text><text x="788" y="277" fill="#aaa0d4" font-size="12">flow</text>
+  </g>
+  <g fill="#b7a8ff"><circle cx="180" cy="260" r="4"/><circle cx="450" cy="260" r="4"/><circle cx="710" cy="260" r="4"/></g>
+  <text x="60" y="65" fill="#9b8ecb" font-family="monospace" font-size="14" letter-spacing="3">PULSEOPS / INTELLIGENT OPERATIONS</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#1a1511"/>
+  <g stroke="#f0b26b" stroke-width="2" fill="none" opacity=".65"><path d="M180 260h120M450 260h120M710 260h40"/><path d="m296 252 14 8-14 8M556 252l14 8-14 8M742 252l14 8-14 8"/></g>
+  <g font-family="monospace" font-size="17" fill="#fff3e5">
+    <rect x="60" y="210" width="130" height="100" rx="8" fill="#473022" stroke="#f0b26b"/><text x="91" y="250">UI</text><text x="91" y="277" fill="#c4a88f" font-size="12">React</text>
+    <rect x="310" y="190" width="140" height="140" rx="8" fill="#4b2e20" stroke="#ffca8c"/><text x="342" y="245">API</text><text x="338" y="272" fill="#c4a88f" font-size="12">services</text>
+    <rect x="570" y="210" width="140" height="100" rx="8" fill="#503323" stroke="#f0b26b"/><text x="602" y="250">DATA</text><text x="595" y="277" fill="#c4a88f" font-size="12">persist</text>
+    <rect x="770" y="210" width="90" height="100" rx="8" fill="#68432c" stroke="#ffca8c"/><text x="783" y="250">SHIP</text><text x="780" y="277" fill="#c4a88f" font-size="12">cloud</text>
+  </g>
+  <text x="60" y="65" fill="#c29b78" font-family="monospace" font-size="14" letter-spacing="3">FULL STACK / PRODUCT EXPERIMENTS</text>
+</svg>

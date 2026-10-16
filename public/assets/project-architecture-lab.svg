@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#0d1726"/>
+  <g stroke="#639bff" stroke-width="2" fill="none" opacity=".65"><path d="M180 260h100M390 260h100M600 260h100M780 260h35"/><path d="m270 252 14 8-14 8M480 252l14 8-14 8M690 252l14 8-14 8M807 252l14 8-14 8"/></g>
+  <g font-family="monospace" font-size="16" fill="#e8f2ff">
+    <rect x="50" y="210" width="130" height="100" rx="8" fill="#142a45" stroke="#639bff"/><text x="72" y="250">CLIENTS</text><text x="72" y="276" fill="#8fa6c4" font-size="12">web + mobile</text>
+    <rect x="285" y="210" width="105" height="100" rx="8" fill="#17365a" stroke="#639bff"/><text x="301" y="250">GATEWAY</text><text x="306" y="276" fill="#8fa6c4" font-size="12">auth</text>
+    <rect x="495" y="190" width="105" height="140" rx="8" fill="#1a3d61" stroke="#8fc0ff"/><text x="512" y="245">SERVICES</text><text x="516" y="272" fill="#8fa6c4" font-size="12">domain</text>
+    <rect x="705" y="210" width="110" height="100" rx="8" fill="#214b6e" stroke="#639bff"/><text x="723" y="250">DATA</text><text x="718" y="276" fill="#8fa6c4" font-size="12">events + db</text>
+  </g>
+  <text x="50" y="65" fill="#7796bf" font-family="monospace" font-size="14" letter-spacing="3">ARCHITECTURE LAB / DISTRIBUTED SYSTEMS</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#0b1722"/>
+  <g stroke="#74e5ff" stroke-width="2" fill="none" opacity=".7">
+    <path d="M190 260h120M450 260h120M710 260h40"/>
+    <path d="m296 252 14 8-14 8M556 252l14 8-14 8M742 252l14 8-14 8"/>
+  </g>
+  <g font-family="monospace" font-size="18" fill="#e7faff">
+    <rect x="60" y="210" width="130" height="100" rx="8" fill="#102c3b" stroke="#74e5ff"/>
+    <text x="88" y="252">CONTEXT</text><text x="88" y="278" fill="#7d9caf" font-size="13">brief + rules</text>
+    <rect x="310" y="190" width="140" height="140" rx="8" fill="#132c43" stroke="#8e7aff"/>
+    <text x="342" y="245">AGENTS</text><text x="338" y="272" fill="#a9a1db" font-size="13">plan · build</text>
+    <rect x="570" y="210" width="140" height="100" rx="8" fill="#182c3b" stroke="#74e5ff"/>
+    <text x="603" y="252">REVIEW</text><text x="597" y="278" fill="#7d9caf" font-size="13">quality gate</text>
+    <rect x="770" y="210" width="90" height="100" rx="8" fill="#193f49" stroke="#74e5ff"/>
+    <text x="790" y="252">SHIP</text><text x="791" y="278" fill="#7d9caf" font-size="13">code</text>
+  </g>
+  <g fill="#74e5ff"><circle cx="190" cy="260" r="4"/><circle cx="450" cy="260" r="4"/><circle cx="710" cy="260" r="4"/></g>
+  <text x="60" y="65" fill="#6f9aae" font-family="monospace" font-size="14" letter-spacing="3">FORGEFLOW / AI SOFTWARE DELIVERY</text>
+</svg>
